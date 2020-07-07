@@ -32,6 +32,15 @@ Popular version of UNIX OS. Linux is the best-known and most-used open source op
 1. Absolute path - Specifies a location in relation to root directory. Always they begin with / .
 2. Relative path - It is the relation to where we are currently in the system and will not begin with /.
 
+Some of the common notations used :
+- ~(tilde) - Shortcut to home directory
+- .(dot) - Reference to the current directory
+- ..(dot dot) - Reference to parent directory
+
+#### Virtual Machines
+
+
+
 
 
             
