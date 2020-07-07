@@ -25,5 +25,13 @@ Popular version of UNIX OS. Linux is the best-known and most-used open source op
 - Shell - It is an interface to kernel hiding complexity of kernel's functions from users.
 - Utilities - Provides users most of the functionalities of OS
 
+#### Terminal
+- Command Line or terminal is a text based interface to the system
+
+#### Paths
+1. Absolute path - Specifies a location in relation to root directory. Always they begin with / .
+2. Relative path - It is the relation to where we are currently in the system and will not begin with /.
+
+
 
             
