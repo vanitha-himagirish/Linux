@@ -19,4 +19,11 @@ Popular version of UNIX OS. Linux is the best-known and most-used open source op
 - Hierarchical File system
 - Shell 
 
+#### Architechture of Linux
+- Hardware Layer
+- Kernel - core component and it interacts directly with the hardware.
+- Shell - It is an interface to kernel hiding complexity of kernel's functions from users.
+- Utilities - Provides users most of the functionalities of OS
+
+
             
