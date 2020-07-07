@@ -38,7 +38,13 @@ Some of the common notations used :
 - ..(dot dot) - Reference to parent directory
 
 #### Virtual Machines
+- Typically called an image
+- It behaves like an actual computer
+- Runs in a window much like any other program
+- The physical computer is typically called the “host” and the VMs are referred to as the “guests”.
 
+#### Hypervisor
+- 
 
 
 
