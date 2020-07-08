@@ -27,9 +27,17 @@ Popular version of UNIX OS. Linux is the best-known and most-used open source op
 
 #### Terminal
 - Command Line or terminal is a text based interface to the system
+- Terminal is just a mechanism to transfer information. 
+
+#### Shell
+- For the operating system to understand the information, a shell is needed.
+- A shell in Linux is a program that interprets the commands you enter in a terminal window, so the operating system can understand what you want to do.
+- There are many shell programs, such as Bash, Zsh, Csh, Ksh etc.
+- Bash is the default shell on most Linux distributions. When you open a terminal window, a Bash shell is automatically started.
+- To check which shell you are using now, run the following command.
 
 #### Paths
-1. Absolute path - Specifies a location in relation to root directory. Always they begin with / .
+1. Absolute path - Specifies a loation in relation to root directory. Always they begin with / .
 2. Relative path - It is the relation to where we are currently in the system and will not begin with /.
 
 Some of the common notations used :
