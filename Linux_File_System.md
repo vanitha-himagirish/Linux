@@ -24,6 +24,9 @@
 - /usr - Contains files and utilites that are shared between users
 - /var - variable data is stored, usually system logs but can also include other data
 
+#### What is LVM?
+LVM - Logical Volume Manager is a disk management solution that allow administrators to manage the disk and space more effectively. It also allows us to add, remove, resizing the size online in the existing volume.
+
 #### Structure of LVM
 - Physical Volume (PV): it is a whole disk or a partition of a disk
 - Volume Group (VG): corresponds to one or more PV
