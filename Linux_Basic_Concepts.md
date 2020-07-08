@@ -27,6 +27,7 @@ Popular version of UNIX OS. Linux is the best-known and most-used open source op
 
 #### Terminal
 - Command Line or terminal is a text based interface to the system
+- The command line typically presents you with a prompt
 - Terminal is just a mechanism to transfer information. 
 
 #### Shell
