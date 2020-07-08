@@ -7,7 +7,7 @@ Popular version of UNIX OS. Linux is the best-known and most-used open source op
 2. System Libraries - Special function or programs using which we can access kernel’s features.
 3. System Utility – Responsible for specialized, individual level tasks
 
-#### Kernel mode vs User Mode
+#### Kernel mode vs User mode
 1. Kernel mode – Privileged mode with full access to all resources of computer.
 2. User mode – has no access to system hardware and kernel code. User programs/utilities uses System libraries to access kernel function
 
@@ -44,7 +44,9 @@ Some of the common notations used :
 - The physical computer is typically called the “host” and the VMs are referred to as the “guests”.
 
 #### Hypervisor
-- 
+- is computer software, firmware or hardware that creates and runs virtual machines
+- A hypervisor, also known as a virtual machine monitor or VMM, is software that creates and runs virtual machines (VMs).
+- A hypervisor allows one host computer to support multiple guest VMs by virtually sharing its resources, such as memory and processing. 
 
 
 
