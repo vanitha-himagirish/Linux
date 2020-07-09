@@ -40,6 +40,8 @@ Type following command to install tree command on
 - pwd - print working directory
 - cd.. - will take us to one level up close to the root directory
 - ls - list current directory contents
+- ls -a - lists the content of directory including hidden files
+- ls -l - displays more information about the directory contents  
 
 #### What is LVM?
 LVM - Logical Volume Manager is a disk management solution that allow administrators to manage the disk and space more effectively. It also allows us to add, remove, resizing the size online in the existing volume.
