@@ -30,13 +30,12 @@
 Type following command to install tree command on
     - RHEL/CentOS and Fedora linux: yum install tree -y
     - Ubuntu or Debian: sudo apt install tree
-##### Usage of tree
-1. tree -To view directory structure of a directory in tree format
-2. tree -d - Shows only the directories
-3. tree -a - Shows all files including hidden dot files
-4. tree -L 2 - Limit the level of recursion
-5. man tree - On how to use tree
-
+    ##### Usage of tree
+    1. tree -To view directory structure of a directory in tree format
+    2. tree -d - Shows only the directories
+    3. tree -a - Shows all files including hidden dot files
+    4. tree -L 2 - Limit the level of recursion
+    5. man tree - On how to use tree
 - cd - change directory
 - pwd - print working directory
 - cd.. - will take us to one level up close to the root directory
