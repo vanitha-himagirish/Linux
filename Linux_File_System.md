@@ -46,8 +46,8 @@ Type following command to install tree command on
                 2. .kshrc − The Korn shell ( ksh) initialization script
                 3. .cshrc − The C shell ( csh) initialization script
                 4. .rhosts − The remote shell configuration file
-.cshrc − The C shell ( csh) initialization script
-.rhosts − The remote shell configuration file
+                5. .cshrc − The C shell ( csh) initialization scrip
+                6. .rhosts − The remote shell configuration file
 7. ls -l - displays more information about the directory contents such as type and permission given on the file, memory blocks, owner of the file, size in bytes etc.
 8. 
 
