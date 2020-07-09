@@ -54,6 +54,7 @@ Type following command to install tree command on
 10. wc filename - Counting words in a file
 11. cp source_file destination_file - Copy Source file to destination file
 12. mv old_file new_file - Change the name of the files..renaming
+13. rm filename - deleting files
 
 
 
