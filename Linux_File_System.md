@@ -49,13 +49,16 @@ Type following command to install tree command on
                 5. .cshrc − The C shell ( csh) initialization scrip
                 6. .rhosts − The remote shell configuration file
 7. ls -l - displays more information about the directory contents such as type and permission given on the file, memory blocks, owner of the file, size in bytes etc.
-8. mkdir mydir - Creates the directory
-8. vi filename - Creates a new file.Press i to insert and make modification.press escape to come out of edit mode. To save the file without changes :q!. To save the changes,press :wq.
-9. cat filename - Display the file
-10. wc filename - Counting words in a file
-11. cp source_file destination_file - Copy Source file to destination file
-12. mv old_file new_file - Change the name of the files..renaming
-13. rm filename - deleting files
+8. mkdir dirname - Creates the directory
+9. rmdir dirname  - Removes/deletes the directory
+10. mv olddir newdir - changing directory names
+11. vi filename - Creates a new file.Press i to insert and make modification.press escape to come out of edit mode. To save the file without changes :q!. To save the changes,press :wq.
+12. cat filename - Display the file
+13. wc filename - Counting words in a file
+14. cp source_file destination_file - Copy Source file to destination file
+16. mv old_file new_file - Change the name of the files..renaming
+17. rm filename - deleting files
+#### File permission - Commands
 
 #### Standard Unix Streams
 - stdin − This is referred to as the standard input and the associated file descriptor is 0. This is also represented as STDIN. The Unix program will read the default input from STDIN.
