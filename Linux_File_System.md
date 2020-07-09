@@ -56,6 +56,11 @@ Type following command to install tree command on
 12. mv old_file new_file - Change the name of the files..renaming
 13. rm filename - deleting files
 
+#### Standard Unix Streams
+- stdin − This is referred to as the standard input and the associated file descriptor is 0. This is also represented as STDIN. The Unix program will read the default input from STDIN.
+- stdout − This is referred to as the standard output and the associated file descriptor is 1. This is also represented as STDOUT. The Unix program will write the default output at STDOUT
+- stderr − This is referred to as the standard error and the associated file descriptor is 2. This is also represented as STDERR. The Unix program will write all the error messages at STDERR.
+
 
 
 
