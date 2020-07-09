@@ -49,6 +49,7 @@ Type following command to install tree command on
                 5. .cshrc − The C shell ( csh) initialization scrip
                 6. .rhosts − The remote shell configuration file
 7. ls -l - displays more information about the directory contents such as type and permission given on the file, memory blocks, owner of the file, size in bytes etc.
+8. mkdir mydir - Creates the directory
 8. vi filename - Creates a new file.Press i to insert and make modification.press escape to come out of edit mode. To save the file without changes :q!. To save the changes,press :wq.
 9. cat filename - Display the file
 10. wc filename - Counting words in a file
