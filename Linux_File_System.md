@@ -40,7 +40,14 @@ Type following command to install tree command on
 3. pwd - print working directory
 4. cd.. - will take us to one level up close to the root directory
 5. ls - list current directory contents
-6. ls -a - lists the content of directory including hidden files
+6. ls -a - lists the content of directory including hid.cshrc − The C shell ( csh) initialization scriptden files.
+    Note : The hidden files may be having the extensions such as
+                1. .profile − The Bourne shell ( sh) initialization script
+                2. .kshrc − The Korn shell ( ksh) initialization script
+                3. .cshrc − The C shell ( csh) initialization script
+                4. .rhosts − The remote shell configuration file
+.cshrc − The C shell ( csh) initialization script
+.rhosts − The remote shell configuration file
 7. ls -l - displays more information about the directory contents such as type and permission given on the file, memory blocks, owner of the file, size in bytes etc.
 8. 
 
