@@ -1,4 +1,4 @@
-#### What is LVM?
+What is LVM?
 LVM - Logical Volume Manager is a disk management solution that allow administrators to manage the disk and space more effectively. It also allows us to add, remove, resizing the size online in the existing volume.
 
 #### Structure of LVM
